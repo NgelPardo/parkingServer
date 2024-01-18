@@ -1,0 +1,172 @@
+{
+  "vehiculos": [
+    {
+      "id": "123",
+      "tipo": "carro",
+      "placa": "bdc844",
+      "fec_ing": "2024-01-17T08:30:00.000Z",
+      "fec_sal": "2024-01-17T10:30:00.000Z",
+      "tie_tot": 120,
+      "val_pag": 13200,
+      "estado": "salida"
+    },
+    {
+      "id": "124",
+      "tipo": "motocicleta",
+      "placa": "ydg24d",
+      "fec_ing": "2024-01-17T09:15:00.000Z",
+      "fec_sal": "2024-01-17T12:15:00.000Z",
+      "tie_tot": 180,
+      "val_pag": 9000,
+      "estado": "salida"
+    },
+    {
+      "id": "125",
+      "tipo": "bicicleta",
+      "placa": "sff56ss",
+      "fec_ing": "2024-01-17T10:00:00.000Z",
+      "fec_sal": "2024-01-17T11:00:00.000Z",
+      "tie_tot": 60,
+      "val_pag": 600,
+      "estado": "salida"
+    },
+    {
+      "id": "126",
+      "tipo": "carro",
+      "placa": "dfg852",
+      "fec_ing": "2024-01-18T11:45:00.000Z",
+      "fec_sal": null,
+      "tie_tot": null,
+      "val_pag": null,
+      "estado": "ingreso"
+    },
+    {
+      "id": "127",
+      "tipo": "carro",
+      "placa": "dfg812",
+      "fec_ing": "2024-01-17T16:45:00.000Z",
+      "fec_sal": null,
+      "tie_tot": null,
+      "val_pag": null,
+      "estado": "ingreso"
+    },
+    {
+      "placa": "VDS565",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-18T03:35:08.794Z",
+      "fec_sal": "2024-01-18T07:39:52.273Z",
+      "tie_tot": 244.72465,
+      "id": "05fd",
+      "estado": "salida",
+      "val_pag": 12236.2325
+    },
+    {
+      "placa": "asdasdd",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-18T03:41:24.768Z",
+      "fec_sal": "2024-01-18T07:39:05.988Z",
+      "tie_tot": 237.687,
+      "id": "a647",
+      "estado": "salida",
+      "val_pag": 11884.35
+    },
+    {
+      "placa": "HKC842",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-17T23:03:36.698Z",
+      "fec_sal": "2024-01-18T02:37:59.000Z",
+      "tie_tot": 214.3717,
+      "id": "7db3",
+      "estado": "salida",
+      "val_pag": 10718.585000000001
+    },
+    {
+      "placa": "AAA111",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-17T23:12:09.370Z",
+      "fec_sal": "2024-01-18T01:57:41.000Z",
+      "tie_tot": 165.52716666666666,
+      "id": "664e",
+      "estado": "salida",
+      "val_pag": 8276.358333333334
+    },
+    {
+      "placa": "BBB002",
+      "tipo": "carro",
+      "fec_ing": "2024-01-17T23:13:38.202Z",
+      "fec_sal": "2024-01-18T01:00:49.000Z",
+      "tie_tot": 107.17996666666667,
+      "id": "a607",
+      "estado": "salida",
+      "val_pag": 11789.796333333334
+    },
+    {
+      "placa": "CCC455",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-17T23:17:02.881Z",
+      "fec_sal": "2024-01-18T00:53:30.000Z",
+      "tie_tot": 96.45198333333333,
+      "id": "36d7",
+      "estado": "salida",
+      "val_pag": 4822.599166666667
+    },
+    {
+      "placa": "PSO999",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-17T23:25:07.398Z",
+      "fec_sal": "2024-01-18T06:46:20.329Z",
+      "tie_tot": 441.21551666666664,
+      "id": "452a",
+      "estado": "salida",
+      "val_pag": 22060.775833333333
+    },
+    {
+      "id": "8f44",
+      "placa": "DFS458",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-18T07:40:57.833Z",
+      "estado": "ingreso"
+    },
+    {
+      "id": "91cd",
+      "placa": "FS45F",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-18T07:42:10.953Z",
+      "estado": "ingreso"
+    },
+    {
+      "id": "eacd",
+      "placa": "AA11A",
+      "tipo": "carro",
+      "fec_ing": "2024-01-18T07:42:59.292Z",
+      "estado": "ingreso"
+    },
+    {
+      "id": "ff97",
+      "placa": "BB45B",
+      "tipo": "motocicleta",
+      "fec_ing": "2024-01-18T07:44:52.928Z",
+      "estado": "ingreso"
+    },
+    {
+      "placa": "CCC000",
+      "tipo": "carro",
+      "fec_ing": "2024-01-18T07:45:29.649Z",
+      "fec_sal": "2024-01-18T08:48:47.000Z",
+      "tie_tot": 63.289183333333334,
+      "id": "584d",
+      "estado": "salida",
+      "val_pag": 6961.810166666667
+    },
+    {
+      "placa": "DDD000",
+      "tipo": "carro",
+      "fec_ing": "2024-01-18T07:45:52.250Z",
+      "fec_sal": "2024-01-18T08:47:15.000Z",
+      "tie_tot": 61.37916666666667,
+      "id": "ea22",
+      "estado": "salida",
+      "val_pag": 6751.708333333334
+    }
+  ]
+}
